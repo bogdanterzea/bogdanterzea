@@ -10,8 +10,8 @@
 
 #### My other passions?
 - I love snowboarding, hiking, reading, nature, video games, and Marvel movies.🏂⛰️👣📚🎮🕸️🛡️🔨⛓️
-- My biggest passion is photography. Instagram:[bobosshots](www.instagram.com/bobosshots)📷
-- Cool fact: I own my profile NFT.
+- My biggest passion is photography. Instagram📷:@bobosshots
+- Cool fact: I own my profile NFT.👻
 
 #### My skills?
 - You can see my skills applied in my repositories down below 👇
