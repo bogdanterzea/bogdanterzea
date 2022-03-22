@@ -17,3 +17,6 @@
 - You can see my skills applied in my repositories down below 👇
 
 ##### 👋 I'm glad you're here. Have a great day! 👋
+
+####
+<a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/LinkedIn.png" alt="LinkedIn" width="30"></a>
