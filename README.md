@@ -15,6 +15,7 @@
 
 #### My skills?
 - You can see my skills applied in my repositories down below 👇
+- Also, you can check a cool package that I develop, roku-data-dog [![npm version](https://img.shields.io/npm/v/roku-data-dog.svg?logo=npm)](https://www.npmjs.com/package/roku-data-dog)
 
 ##### 👋 I'm glad you're here. Have a great day! 👋
 
