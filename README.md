@@ -20,6 +20,8 @@
 <a href="http://www.github.com/bogdanterzea"><img src="https://github-readme-stats.vercel.app/api?username=bogdanterzea&custom_title=Bogdan's Github status&show_icons=true&hide_border=true&title_color=d0f55e&text_color=ffffff&icon_color=e4b45c&bg_color=313245,3a2e17,3a2e17,#5b4825"/></a>
 
 ##### 👋 I'm glad you're here. Have a great day! 👋
+</br>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/bogdanterzea&left_color=blue&right_color=yellow)
 ####
 <a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/LinkedIn.png" alt="LinkedIn" width="30"></a>
