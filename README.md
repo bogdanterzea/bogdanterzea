@@ -22,7 +22,5 @@
 #### 👋 I'm glad you're here. Have a great day! 👋 
 
 ####
-<ls>
 <a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/LinkedIn.png" alt="LinkedIn" width="30"></a>
 <a href="http://www.github.com/bogdanterzea"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/bogdanterzea&left_color=blue&right_color=yellow) </a>
-</ls>
