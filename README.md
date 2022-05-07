@@ -22,5 +22,7 @@
 #### 👋 I'm glad you're here. Have a great day! 👋 
 
 ####
-<a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/LinkedIn.png" align="right" width="33"></a>
+<a href="https://twitter.com/BogdanTerzea"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter" align="right" width="33"/></a>
+<a href="https://www.instagram.com/bobosshots/"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram" align="right" width="33"/></a>
+<a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" align="right" width="33"></a>
 <a href="http://www.github.com/bogdanterzea"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/bogdanterzea&left_color=blue&right_color=yellow) </a>
