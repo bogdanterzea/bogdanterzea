@@ -1,4 +1,4 @@
-### [Hello World! <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20"> ](https://www.youtube.com/watch?v=u7JMhVI7taQ&ab_channel=AlanWalker) 
+### [Hello World!](https://www.youtube.com/watch?v=u7JMhVI7taQ&ab_channel=AlanWalker) <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20">
 
 #### I'm Bogdan 😄
 - I am an enthusiastic Roku programmer.
