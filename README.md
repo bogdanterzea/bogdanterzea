@@ -1,4 +1,4 @@
-### [Hello World!](https://www.youtube.com/watch?v=u7JMhVI7taQ&ab_channel=AlanWalker) <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20">
+### [Hello World!](https://www.youtube.com/watch?v=u7JMhVI7taQ&ab_channel=AlanWalker) <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20px">
 
 #### I'm Bogdan 😄
 - I am an enthusiastic Roku programmer.
@@ -19,7 +19,7 @@
 </br>
 <a href="http://www.github.com/bogdanterzea"><img src="https://github-readme-stats.vercel.app/api?username=bogdanterzea&custom_title=Bogdan's Github status&show_icons=true&hide_border=true&title_color=d0f55e&text_color=ffffff&icon_color=e4b45c&bg_color=313245,3a2e17,3a2e17,#5b4825"/></a>
 
-#### <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20"> I'm glad you're here. Have a great day! <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20">
+#### <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20px"> I'm glad you're here. Have a great day! <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20px" height="20px">
 
 ####
 <a href="https://twitter.com/BogdanTerzea"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter" align="right" width="33"/></a>
