@@ -17,7 +17,7 @@
 - You can see my skills applied in my repositories down below 👇
 - Also, you can check a cool package that I develop, roku-data-dog [![npm version](https://img.shields.io/npm/v/roku-data-dog.svg?logo=npm)](https://www.npmjs.com/package/roku-data-dog)
 </br>
-<a href="http://www.github.com/bogdanterzea"><img src="https://github-readme-stats.vercel.app/api?username=bogdanterzea&custom_title=Bogdan's Github status&show_icons=true&hide_border=true&title_color=d0f55e&text_color=ffffff&icon_color=e4b45c&bg_color=313245,3a2e17,3a2e17,#5b4825"/></a>
+<a href="http://www.github.com/bogdanterzea"><img src="https://github-readme-stats.vercel.app/api?username=bogdanterzea&show_icons=true&hide_border=true&title_color=d0f55e&text_color=ffffff&icon_color=e4b45c&bg_color=313245,3a2e17,3a2e17,#5b4825"/></a>
 
 #### <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20" height="20"> I'm glad you're here. Have a great day! <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20" height="20">
 
