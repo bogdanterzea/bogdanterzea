@@ -22,7 +22,6 @@
 #### <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20" height="20"> I'm glad you're here. Have a great day! <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20" height="20">
 
 ####
-<a href="https://twitter.com/BogdanTerzea"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter" align="right" width="33"/></a>
 <a href="https://www.instagram.com/bobosshots/"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram" align="right" width="33"/></a>
 <a href="https://bogdanterzea.github.io/my-digital-cv/"><img src="https://img.icons8.com/color/32/000000/parse-from-clipboard.png" alt="CV" align="right" width="33">
 <a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" align="right" width="33"></a>
