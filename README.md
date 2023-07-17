@@ -4,9 +4,9 @@
 - I am an enthusiastic Roku programmer.
 - I love to learn new things and get involved in different challenges.🔭📈
 - I am currently working at Agile Freaks and I am collaborating with a lot of great and skillful people.🧙‍♂️
-- I am also learning JS because I like web development.
-- I am working in an agile methodology and I am responsible of a Roku SceneGraph project that I constantly improve and maintain.👨‍💻
-- In my previous experience, I worked at Continental and I was programming parking and assisting sensors for different cars.🚗🚚
+- I am working in an agile methodology and I am responsible for a Roku SceneGraph project that I constantly improve and maintain.👨‍💻
+- In my previous experience, I worked at Continental where I was programming parking and assisting sensors for different cars.🚗🚚
+- Currently, I am learning to work with Drupal and develop awesome websites. 🌐
 
 #### My other passions?
 - I love snowboarding, hiking, reading, nature, video games, and Marvel movies.🏂⛰️👣📚🎮🕸️🛡️🔨⛓️
@@ -26,4 +26,4 @@
 <a href="https://www.instagram.com/bobosshots/"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram" align="right" width="33"/></a>
 <a href="https://bogdanterzea.github.io/my-digital-cv/"><img src="https://img.icons8.com/color/32/000000/parse-from-clipboard.png" alt="CV" align="right" width="33">
 <a href="https://www.linkedin.com/in/bogdan-terzea/" target="_blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" align="right" width="33"></a>
-<a href="http://www.github.com/bogdanterzea"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/bogdanterzea&left_color=blue&right_color=yellow) </a>
+<a href="http://www.github.com/bogdanterzea"> ![Visitors](https://api.visitorbadge.io/api/visitors?path=bogdanterzea&countColor=%23263759&style=plastic&labelStyle=lower) </a>
