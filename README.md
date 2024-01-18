@@ -15,9 +15,15 @@
 
 #### My skills?
 - You can see my skills applied in my repositories down below 👇
-- Also, you can check a cool package that I develop, roku-data-dog [![npm version](https://img.shields.io/npm/v/roku-data-dog.svg?logo=npm)](https://www.npmjs.com/package/roku-data-dog)
+- Also, you can check a cool package that I developed, roku-data-dog [![npm version](https://img.shields.io/npm/v/roku-data-dog.svg?logo=npm)](https://www.npmjs.com/package/roku-data-dog)
 </br>
-<a href="http://www.github.com/bogdanterzea"><img src="https://github-readme-stats.vercel.app/api?username=bogdanterzea&show_icons=true&hide_border=true&title_color=d0f55e&text_color=ffffff&icon_color=e4b45c&bg_color=313245,3a2e17,3a2e17,#5b4825"/></a>
+<a href="http://www.github.com/bogdanterzea"">
+  <img src="https://github-readme-stats.vercel.app/api?username=bogdanterzea&show_icons=true&count_private=true&theme=dark&hide=stars&icon_color=FA8B00&title_color=FA8B00"/>
+</a>
+</br>
+<a href="http://www.github.com/bogdanterzea">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bogdanterzea&theme=dark&date_format=j%20M%5B%20Y%5D&sideLabels=FA8B00&sideNums=FA8B00" alt="Bogdan Streak">
+</a>
 
 #### <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20" height="20"> I'm glad you're here. Have a great day! <img src="https://github.com/bogdanterzea/bogdanterzea/blob/master/wave.gif" width="20" height="20">
 
